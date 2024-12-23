@@ -16,6 +16,9 @@ a{
 }
 
 /* ============== Navbar Start ======================== */
+.navbar{
+    transition: all 0.4s ease-out;
+}
 .navbar .navbar-nav .nav-link{
     font-size: 14px;
     text-transform: uppercase;
